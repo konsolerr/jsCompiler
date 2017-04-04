@@ -1,0 +1,15 @@
+{
+  "name": "compiler",
+  "version": "0.0.1",
+  "description": "Javasctipt compiler of kz-language to JVM byte code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantin Zaitsev (zayats1812@mail.ru)",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.7.0",
+    "require": "^2.4.20"
+  }
+}

@@ -1,0 +1,8 @@
+void main() {
+    read(a);
+    read(b);
+
+    int sum = a + b;
+
+    write(sum);
+}
